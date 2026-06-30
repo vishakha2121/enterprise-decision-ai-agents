@@ -1,29 +1,4 @@
 
-
-# IntelliJ IDEA / PyCharm
-.idea/
-*.iml
-*.iws
-*.ipr
-out/
-
-# Eclipse
-.project
-.classpath
-.settings/
-bin/
-
-# Sublime Text
-*.sublime-project
-*.sublime-workspace
-
-# Vim
-*.swp
-*.swo
-*~
-.vim/
-
-# Emacs
 *~
 \#*
 .\#*
